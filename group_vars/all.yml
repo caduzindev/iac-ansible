@@ -1,0 +1,5 @@
+---
+wp_db: wordpress_db
+wp_user_db: ansible_user
+wp_pass_db: senha
+wp_installation_dir: /var/www/wordpress
